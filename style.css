@@ -2,6 +2,10 @@ body {
     background-color: rgba(199, 219, 219, 0.979);
 }
 
+.container {
+    display: block;
+}
+
 h1 {
    padding: 10px 20px 10px 25px;
    font-family: 'Times New Roman', Times, serif;
